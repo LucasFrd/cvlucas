@@ -1,7 +1,18 @@
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;
+  }
+
+  .container {
+    padding: 10px;
+  }
+}
+
+
 /*///////// TITULO ///////////*/
 .titulo-caixa {
 	margin: 0 auto;
-	width: 50%;
+	width: 70%;
 }
 
 .titulo {
@@ -64,6 +75,26 @@
 	margin-bottom: 8px;
 }
 
+/*///////// QUALIFICAÇÕES ///////////*/
+.quali {
+	margin: 0 auto;
+	width: 59%;
+}
+
+.quali h3 {
+	font-family: Verdana;
+	font-size: 26px;
+	margin-top: 45px;
+}
+
+.quali p {
+	font-family: Arial;
+	font-size: 18px;
+	margin-left: 22px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
 /*///////// EXPERIÊNCIA PROFISSIONAL ///////////*/
 .experiencia {
 	margin: 0 auto;
@@ -76,26 +107,36 @@
 	margin-top: 45px;
 }
 
-#sm {
+#exp1 {
 	padding-top: 8px;
 	padding-bottom: 22px;
 }
 
-#ferragem {
+#exp2 {
 	padding-top: 8px;
 	padding-bottom: 22px;
 }
 
-#barber {
+#exp3 {
 	padding-top: 8px;
 	padding-bottom: 22px;
 }
 
-#iergs {
+#exp4 {
+	padding-top: 8px;
+	padding-bottom: 22px;
+}
+
+#exp5 {
+	padding-top: 8px;
+	padding-bottom: 22px;
+}
+
+#exp6 {
 	padding-top: 8px;
 }
 
-#sm p {
+#exp1 p {
 	font-family: Arial;
 	font-size: 18px;
 	margin-left: 22px;
@@ -103,7 +144,7 @@
 	margin-bottom: 8px;
 }
 
-#ferragem p {
+#exp2 p {
 	font-family: Arial;
 	font-size: 18px;
 	margin-left: 22px;
@@ -111,7 +152,7 @@
 	margin-bottom: 8px;
 }
 
-#barber p {
+#exp3 p {
 	font-family: Arial;
 	font-size: 18px;
 	margin-left: 22px;
@@ -119,7 +160,7 @@
 	margin-bottom: 8px;
 }
 
-#iergs p {
+#exp4 p {
 	font-family: Arial;
 	font-size: 18px;
 	margin-left: 22px;
@@ -127,26 +168,39 @@
 	margin-bottom: 8px;
 }
 
-/*///////// HABILIDADES ///////////*/
-.habilidades {
+#exp5 p {
+	font-family: Arial;
+	font-size: 18px;
+	margin-left: 22px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+#exp6 p {
+	font-family: Arial;
+	font-size: 18px;
+	margin-left: 22px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+/*///////// ADICIONAIS ///////////*/
+.adicional {
 	margin: 0 auto;
 	width: 59%;
 }
 
-.habilidades h3 {
+.adicional h3 {
 	font-family: Verdana;
 	font-size: 26px;
 	margin-top: 45px;
 }
-
-.habilidades ul {
+.adicional p {
 	font-family: Arial;
 	font-size: 18px;
-	margin-left: 5px;
-}
-
-.habilidades li {
-	margin-bottom: 14px;
+	margin-left: 22px;
+	margin-top: 8px;
+	margin-bottom: 8px;
 }
 
 /* WHATSAPP BUTTON */
