@@ -1,0 +1,173 @@
+/*///////// TITULO ///////////*/
+.titulo-caixa {
+	margin: 0 auto;
+	width: 50%;
+}
+
+.titulo {
+	text-align: center;
+	color: black;
+	font-family: Arial;
+	font-size: 48px;
+}
+
+
+/*///////// DADOS PESSOAIS ///////////*/
+.dados-pessoais {
+	margin: 0 auto;
+	width: 60%;
+}
+
+.dados-pessoais p {
+	font-family: Arial;
+	font-size: 18px;
+	margin: 8px;
+}
+
+
+/*///////// OBJETIVO ///////////*/
+.objetivo {
+	margin: 0 auto;
+	width: 59%;
+}
+
+.objetivo-titulo {
+	font-family: Verdana;
+	font-size: 26px;
+	margin-top: 45px;
+}
+
+.objetivo-descricao {
+	font-family: Arial;
+	font-size: 18px;
+	margin-left: 22px;
+	line-height: 30px;
+}
+
+/*///////// FORMAÇÃO ///////////*/
+.formacao {
+	margin: 0 auto;
+	width: 59%;
+}
+
+.formacao h3 {
+	font-family: Verdana;
+	font-size: 26px;
+	margin-top: 45px;
+}
+
+.formacao p {
+	font-family: Arial;
+	font-size: 18px;
+	margin-left: 22px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+/*///////// EXPERIÊNCIA PROFISSIONAL ///////////*/
+.experiencia {
+	margin: 0 auto;
+	width: 59%;
+}
+
+.experiencia h3 {
+	font-family: Verdana;
+	font-size: 26px;
+	margin-top: 45px;
+}
+
+#sm {
+	padding-top: 8px;
+	padding-bottom: 22px;
+}
+
+#ferragem {
+	padding-top: 8px;
+	padding-bottom: 22px;
+}
+
+#barber {
+	padding-top: 8px;
+	padding-bottom: 22px;
+}
+
+#iergs {
+	padding-top: 8px;
+}
+
+#sm p {
+	font-family: Arial;
+	font-size: 18px;
+	margin-left: 22px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+#ferragem p {
+	font-family: Arial;
+	font-size: 18px;
+	margin-left: 22px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+#barber p {
+	font-family: Arial;
+	font-size: 18px;
+	margin-left: 22px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+#iergs p {
+	font-family: Arial;
+	font-size: 18px;
+	margin-left: 22px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+/*///////// HABILIDADES ///////////*/
+.habilidades {
+	margin: 0 auto;
+	width: 59%;
+}
+
+.habilidades h3 {
+	font-family: Verdana;
+	font-size: 26px;
+	margin-top: 45px;
+}
+
+.habilidades ul {
+	font-family: Arial;
+	font-size: 18px;
+	margin-left: 5px;
+}
+
+.habilidades li {
+	margin-bottom: 14px;
+}
+
+/* WHATSAPP BUTTON */
+.wpp-bt {
+	position: fixed;
+	bottom: 15px;
+	right: 20px;
+	cursor: pointer;
+	border-radius: 10px;
+	border
+}
+
+.botao {
+	width: 65px;
+	height: 65px;
+}
+
+.contato-wpp {
+	position: fixed;
+	bottom: 25px;
+	right: 120px;
+	font-size: 16px;
+	font-family: Arial;
+}
